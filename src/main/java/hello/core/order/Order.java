@@ -13,6 +13,7 @@ public class Order {
         this.itemPrice = itemPrice;
         this.discountPrice = discountPrice;
     }
+    // 최종 계산된 금액
     public int calculatePrice(){
         return itemPrice - discountPrice;
     }

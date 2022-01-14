@@ -9,6 +9,7 @@ public class FixDiscountPolicy implements DiscountPolicy{
 
     @Override
     public int discount(Member member, int price) {
+        // Enum 은 == 써야함
         if (member.getGrade() == Grade.VIP) {
             return discountFixAmount;
         }else{
