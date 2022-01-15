@@ -51,3 +51,7 @@ appconfig 에서 생성한 memoryMemberRepositoryd의 주솟값을 memberService
 ** 그림 -사용, 구성의 분리 **
 
 ![](https://images.velog.io/images/jinii/post/e0438718-2f3f-4d5d-984d-5f4db3dae4af/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-01-15%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.30.38.png)
+
+**할인 정책의 변경 **
+
+![](https://images.velog.io/images/jinii/post/948898a7-f3c9-4f25-bcfb-8f51ce2e3ea1/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-01-15%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.36.02.png)
