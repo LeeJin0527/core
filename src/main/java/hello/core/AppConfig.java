@@ -11,7 +11,8 @@ import hello.core.order.OrderService;
 import hello.core.order.OrderServiceImpl;
 
 public class AppConfig {
-
+    // 공연 기획자 역할
+    //애플리케이션 전반을 책임짐
     public MemberService memberService(){
         return new MemberServiceImpl(memberRepository());
     }

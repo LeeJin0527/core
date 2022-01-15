@@ -15,6 +15,7 @@ class RateDiscountPolicyTest {
     @DisplayName("VIP는 10 % 할인이 적용 되어야 한다.")
     void vip_o(){
         //given
+        //임의의 멤버 생성
         Member member = new Member(1L, "memberVIP", Grade.VIP);
         //when
         int discount = discountPolicy.discount(member, 10000);
