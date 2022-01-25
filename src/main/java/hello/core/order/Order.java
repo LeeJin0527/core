@@ -14,9 +14,6 @@ public class Order {
         this.discountPrice = discountPrice;
     }
     // 최종 계산된 금액
-    public int calculatePrice(){
-        return itemPrice - discountPrice;
-    }
 
     public Long getMemberId() {
         return memberId;
@@ -33,7 +30,6 @@ public class Order {
     public void setItemName(String itemName) {
         this.itemName = itemName;
     }
-
 
     public int getItemPrice() {
         return itemPrice;

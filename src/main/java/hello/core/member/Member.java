@@ -1,7 +1,7 @@
 package hello.core.member;
 
 public class Member {
-    //회원 속성에는 아이디, 이름, 등급 이 있다.
+    // 회원 속성에는 아이디, 이름, 등급 이 있다.
     private Long id;
     private String name;
     private Grade grade;
@@ -35,8 +35,4 @@ public class Member {
     public void setGrade(Grade grade) {
         this.grade = grade;
     }
-
-
-
-
 }
